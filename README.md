@@ -1,0 +1,1 @@
+Hi this repository is my journey of learning software development 
