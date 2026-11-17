@@ -30,7 +30,7 @@ A database does not have to be stored on a computer. It can be stored:
 Computer-based databases are useful when an application must manage large amounts of important information.
 
 | Requirement | Small shopping list | Large application database |
-|---|---|---|
+
 | Amount of data | Small | Potentially millions or billions of records |
 | Importance | Often convenient | May be essential to the application |
 | Security | Usually low requirement | Important, especially for personal/payment data |
